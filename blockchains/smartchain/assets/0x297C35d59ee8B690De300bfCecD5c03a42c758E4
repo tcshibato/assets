@@ -1,0 +1,11 @@
+{
+    "name": "YOURTURNAL",
+    "type": "BEP20",
+    "symbol": "YTR",
+    "decimals": 18,
+    "website": "https://yourturnal.com",
+    "description": "Your Turnal Token is the latest crypto-currency architecture that can be transacted through the Binance Smart Chain",
+    "explorer": "https://bscscan.com/token/0x297C35d59ee8B690De300bfCecD5c03a42c758E4",
+    "status": "active",
+    "id": "0x297C35d59ee8B690De300bfCecD5c03a42c758E4"
+}
